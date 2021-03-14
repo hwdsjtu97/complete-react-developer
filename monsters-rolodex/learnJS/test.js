@@ -12,6 +12,8 @@ var a = {
   f: f,
 };
 
+var b;
+
 // a.f()();
 
 let A = {
